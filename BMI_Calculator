@@ -1,0 +1,14 @@
+name = "chandni kumari"
+height_mm = 2
+weight_kg = 10
+
+bmi = weight_kg / (height_mm ** height_mm)
+print("bmi :")
+print(bmi)
+
+if bmi < 45:
+    print(name)
+    print("Congratulations you are not overweight)
+else:
+    print(name)
+    print("you are overweight")
