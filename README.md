@@ -1,1 +1,2 @@
-# bmicalculator
+Hello I am Chandni Kumari and I am 16 years old.Technology is something I have been passionate about for as long as I can remember, so it wasn’t a difficult decision to study management and learn coding and help other to learn coding too. I’m often asked why I chose this subject and the answer is simple – technology has never failed to amaze me and fortunately I have been in the right generation to be able to keep up and observe the impact that it has on the world.
+A BMI calculator is just a simple calculator which the people to identify that they are overweight or underweight.
